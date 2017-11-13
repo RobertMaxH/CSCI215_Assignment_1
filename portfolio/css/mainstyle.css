@@ -1,0 +1,13 @@
+header h2 {
+	text-align: left;
+}
+header img{
+	width: 240px;
+	height: 320px;
+	float: left;
+	padding-top: 0px;
+}
+#verticalAlign{
+	padding-top: 130px;
+	padding-bottom: 130px;
+}
